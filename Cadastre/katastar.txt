@@ -1,0 +1,3 @@
+Katastar Novi Sad
+Zeleznicka 6
+69;Ja,20.0,sada,kk,20.10.2019
